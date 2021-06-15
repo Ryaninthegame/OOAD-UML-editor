@@ -1,2 +1,2 @@
 # OOAD-UML-editor
-![image](https://i.imgur.com/9mTsgJB.png)
+![image](https://i.imgur.com/bHiBJHp.png)
