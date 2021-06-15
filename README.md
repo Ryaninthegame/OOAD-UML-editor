@@ -1,5 +1,5 @@
 # OOAD-UML-editor
-## demo vedio
+## DEMO VIDEO
 link : https://youtu.be/o66XQbBMVFQ
-## UML diagram
+## UML DIAGRAM
 ![image](https://i.imgur.com/bHiBJHp.png)
